@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./src",
+      "paths": {
+        "assets/*": ["./assets/*"],
+        "screens/*": ["./screens/*"],
+        "utils/*": ["./utils/*"],
+      }
+    },
+    "exclude": ["build", "node_modules"]
+  }

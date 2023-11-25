@@ -1,0 +1,42 @@
+.editor {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .topic {
+    font-size: 1.1rem;
+    background-color: lighten($background-color, 4%);
+    border-radius: 4px;
+    padding: 0.5rem;
+    max-width: 60vw;
+    width: 60vw;
+    display: flex;
+    justify-content: space-between;
+    margin: 0.5rem 0;
+
+    .actions {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .topic-body {
+      white-space: pre-wrap;
+    }
+    .wmde-markdown {
+      background-color: lighten($background-color, 4%);
+    }
+    .w-md-editor {
+      width: 100%;
+    }
+    .w-md-editor-preview {
+      .wmde-markdown {
+        background-color: initial;
+      }
+    }
+  }
+}
