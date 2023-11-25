@@ -19,7 +19,7 @@ module.exports = (env, argv) => {
       path: path.resolve(__dirname, "build"),
       filename: `${outputFilename}.js`,
       chunkFilename: `${outputFilename}.js`,
-      publicPath: productionMode ? "/build/" : "/",
+      publicPath: "/",
     },
     optimization: {
       usedExports: true,
