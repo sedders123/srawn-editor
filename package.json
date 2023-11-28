@@ -37,7 +37,7 @@
     "react-dom": "18.2.0",
     "react-hotkeys-hook": "^4.4.1",
     "react-router-dom": "6.14.2",
-    "rehype-sanitize": "^5.0.1",
+    "rehype-sanitize": "^6.0.0",
     "whatwg-fetch": "3.6.19"
   },
   "devDependencies": {
