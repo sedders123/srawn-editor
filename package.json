@@ -41,7 +41,7 @@
     "whatwg-fetch": "3.6.19"
   },
   "devDependencies": {
-    "@babel/core": "7.22.9",
+    "@babel/core": "7.23.5",
     "@babel/eslint-parser": "7.23.3",
     "@babel/plugin-transform-react-jsx": "7.23.4",
     "@babel/preset-env": "7.23.5",
