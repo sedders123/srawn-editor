@@ -29,7 +29,7 @@
     "@octokit/core": "^5.0.2",
     "@stackoverflow/stacks-editor": "^0.9.1",
     "@uiw/react-md-editor": "^4.0.1",
-    "core-js": "3.33.3",
+    "core-js": "3.34.0",
     "entities": "^4.5.0",
     "immer": "^10.0.3",
     "is-plain-object": "^5.0.0",
