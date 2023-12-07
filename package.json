@@ -58,7 +58,7 @@
     "eslint-plugin-import": "2.29.0",
     "eslint-plugin-react": "7.33.2",
     "eslint-plugin-react-hooks": "4.6.0",
-    "html-webpack-plugin": "5.5.3",
+    "html-webpack-plugin": "5.5.4",
     "husky": "8.0.3",
     "lint-staged": "15.2.0",
     "lockfile-lint": "4.12.1",
