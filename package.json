@@ -51,7 +51,7 @@
     "buffer": "6.0.3",
     "cross-env": "7.0.3",
     "cspell": "8.3.2",
-    "css-loader": "6.8.1",
+    "css-loader": "6.9.0",
     "dotenv": "16.3.1",
     "eslint": "8.56.0",
     "eslint-import-resolver-webpack": "0.13.8",
